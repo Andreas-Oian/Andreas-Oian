@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andreas-Oian
-- 👀 I’m interested in ... Engineering, mathematics and aerospace
+- 👀 I’m interested in mathematics
 - 📫 How to reach me ... andreas.oeian@gmail.com
 
 <!---
